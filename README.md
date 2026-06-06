@@ -11,7 +11,7 @@ This project demonstrates the use of HTML and CSS selectors, including:
 
 
 # File Structure
-Task3- folder/
+projectcss- folder/
 │
 ├── index.html
 ├── style.css
