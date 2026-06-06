@@ -12,10 +12,10 @@ This project demonstrates the use of HTML and CSS selectors, including:
 
 # File Structure
 projectcss- folder/
-│
-├── index.html
-├── style.css
-└── README.md
+
+- index.html
+- style.css
+- README.md
 
 # Technologies Used
 - HTML5
