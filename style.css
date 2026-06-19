@@ -1,0 +1,89 @@
+*{
+	margin: 0px;
+	padding: 0px;
+	box-sizing: border-box;
+}
+nav{
+	background-color: whitesmoke;
+	
+}
+.d1{
+	display: inline;
+	vertical-align: middle;
+}
+.d2{
+	float: right;
+	vertical-align: middle;
+}
+
+h1{display: inherit;}
+nav>ul{
+	list-style: none;
+	text-align: center;
+	display: inline-block;
+	margin-left: 30%;
+}
+
+li{
+	display: inline-block;
+	margin: 15px;
+}
+ul>li>a{
+
+	text-decoration: none;
+	font-size: 25px;
+}
+
+ul>li>a:hover{
+	text-decoration: none;
+	color:red;
+	background-color: whitesmoke;
+}
+.user{
+	display: inline-block;
+	background-color: lightblue;
+	border-radius: 5%;
+	text-decoration: none;
+	font-size: 35px;
+	margin-right: 10px;
+	margin-top: 10px;
+	height: 50px;
+	width: 160px;
+	padding: 5px;
+}
+.hero{
+	margin-top: 100px;
+	height: 100vh;
+}
+.left{
+width: 49%;
+display: inline-block;
+}
+.right{
+width: 49%;
+display: inline-block;
+}
+.h{
+	text-align: center;
+	font-size: 40px;
+	margin-bottom: 20px;
+}
+.h3{
+	color: skyblue;
+}
+p{
+	text-align: center;
+	font-size: 30px;
+	margin-bottom: 20px;
+}
+.btn{
+	background-color: skyblue;
+	border-radius: 10%;
+	height: 50px;
+	font-size: 25px;
+	color: white;
+	border: none;
+	padding: 10px 10px;
+	margin-left: 30%;
+	cursor: pointer;
+	}
