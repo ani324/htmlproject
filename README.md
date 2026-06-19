@@ -1,6 +1,6 @@
 # Laundry Service Homepage
 
-A responsive Laundry Service Homepage built using HTML5 and CSS3.
+A responsive Laundry Service Homepage built using HTML5 and CSS3.In this project features a navigation bar with book a service button
 
 # Technologies Used
 
